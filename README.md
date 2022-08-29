@@ -14,9 +14,11 @@ Hedda Skåre heddsk@stud.ntnu.no
 
 Ingri Nygaardsmoen ingrhn@stud.ntnu.no
 
+Mattias L. Dahlin mattiald@stud.ntnu.no
+
 Sindri Tomasson sindrimt@stud.ntnu.no
 
-Mattias L. Dahlin mattiald@stud.ntnu.no
+
 
 
 
