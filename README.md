@@ -2,7 +2,7 @@
 
 FoodShare is an application developed for sharing food recipes through a user based social platform. Developed as a project in TDT4140 at NTNU.  
 
-Utviklet av:
+Developed by:
 
 Benjamin Krogh benjask@stud.ntnu.no
 
