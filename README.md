@@ -1,8 +1,22 @@
 # FoodShare
 
-FoodShare er en applikasjon som lar brukere finne og opprette matoppskrifter som kan deles med andre brukere.
+FoodShare is an application developed for sharing food recipes through a user based social platform. Developed as a project in TDT4140 at NTNU.  
 
-Tjenesten tillater registrering av brukerkonti som oppskrifter vil bli tilknyttet.
+Utviklet av:
+
+Benjamin Krogh benjask@stud.ntnu.no
+Boye G. Sjo boyegs@stud.ntnu.com
+Erik Wahlstrøm erikswah@stud.ntnu.no
+Hedda Skåre heddsk@stud.ntnu.no
+Ingri Nygaardsmoen ingrhn@stud.ntnu.no
+Sindri Tomasson sindrimt@stud.ntnu.no
+Mattias L. Dahlin mattiald@stud.ntnu.no
+
+
+
+
+
+
 
 ## Start server
 
